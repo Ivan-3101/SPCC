@@ -1,0 +1,7 @@
+int i ;
+float v = 7;
+char a = "Sangeeta_Ma'ams_Practical_Numero_Dos" ;
+int n = 10;
+int a = i * v ;
+$name ;
+END
